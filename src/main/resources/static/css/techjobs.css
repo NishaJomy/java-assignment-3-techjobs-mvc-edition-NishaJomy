@@ -27,10 +27,12 @@ table.job-listing {
     margin: 30px auto;
     border: 1px solid #e4e4e4;
     width: 80%;
+
 }
 
 table.job-listing td:first-child {
     font-weight: bold;
+    color:darkblue;
 }
 
 table.job-listing td:last-child {
